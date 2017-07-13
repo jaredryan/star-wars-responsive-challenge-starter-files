@@ -44,6 +44,7 @@ body main div p {
 
 .card {
   border: 1px solid gainsboro;
+  margin-bottom: 20px;
 }
 
 img {
